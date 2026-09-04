@@ -2,7 +2,7 @@ local Rayfield = loadstring(game:HttpGet("https://sirius.menu/gen2"))()
 
 local mainwin = Rayfield:CreateWindow({
     name = "Spin Or Die Script | Looping Hub",
-    subtitle = "By IceyWWW",
+    subtitle = "By SellingTh4t",
 })
 
 local maintab = mainwin:CreateTab({ name = "Main" })
